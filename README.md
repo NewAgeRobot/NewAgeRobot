@@ -18,38 +18,31 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 <h3 align="center" color="white">D&D Character Creator</h2>
 <div align="center" >  
-<a href='https://drinkifysite.netlify.app/'>
-<img src="" alt="DnDCharCreator"  width="100%" />
-</a>
-<br>
 <br>
 <p>
 <a href="https://github.com/NewAgeRobot/DnDCharacterCreator" target="_blank">
 <img src="https://user-images.githubusercontent.com/1900240/168688201-1e1a5204-6c75-4c99-bab3-852b78abc65a.jpg"/>
 </a>  
-<a href="https://dndcharactercreator.netlify.app/" target="_blank">
+<a href="https://dndcharactercreator.netlify.app/" target="_blank"><br/>
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=purple"/>
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5, DnD 5E API</strong> - This site was intended to easily onboard players at my table as I have a customised setup for my world. It walks them through a simplified character creation setup and I am expanding it to track user stats, items, spell uses etc.</p><br> Work in progress.
 </div>
 </td>
-<td width="50%">
+<td width="50%" style="vertical-align: top;">
 <h3 align="center" color="white">Marvel Encyclopedia</h2>
 <div align="center" >  
 <a href='https://marvelencyclopedia.netlify.app/'>
-<img src="" alt="" width="100%" />
-</a>
-<br>
 <br>
 <p>
 <a href="https://github.com/NewAgeRobot/MarvelEncyclopedia" target="_blank">
 <img src="https://user-images.githubusercontent.com/1900240/168642035-b1b7a33f-a257-432d-9a91-d05a7f79c722.png"/>
 </a>  
-<a href="https://nasapictureofthedayapi.netlify.app/" target="_blank">
+<a href="https://marvelencyclopedia.netlify.app/" target="_blank"><br/>
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=purple"/>
 </a>
 </p>
@@ -63,15 +56,12 @@
 <h3 align="center" color="white">Pokédex</h2>
 <div align="center" >  
 <a href='https://starwarscharactersapp.netlify.app/'>
-<img src="" alt="" width="50%" />
-</a>
-<br>
 <br>
 <p>
 <a href="https://github.com/NewAgeRobot/Pokedex" target="_blank">
 <img src="https://user-images.githubusercontent.com/1900240/168599844-a8196f40-5037-4b10-b6be-f34326f203cd.png"/>
 </a>  
-<a href="https://poke-em-all.netlify.app/" target="_blank">
+<a href="https://poke-em-all.netlify.app/" target="_blank"><br/>
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=purple"/>
 </a>
 </p>
