@@ -1,12 +1,12 @@
 
-<img align="center" src="https://user-images.githubusercontent.com/1900240/168688523-47614949-cfc1-44a8-87e0-e7b3a40570f7.png" alt="SeanMcDonnell"/>
+<img align="center" src="https://github.com/user-attachments/assets/3832c9f8-0564-47c0-9054-ad72bc7da920.png" alt="SeanParker"/>
 
 <h1 align="center">Hi 👋, I'm Seán</h1>
-<h3 align="center">A full stack software engineer.</h3>
+<h3 align="center">A full stack solutions engineer</h3>
 
-- 💼 Accepting new clients. Check out my [portfolio!](https://seanmcdonnell.netlify.app/)
+- 💼 Accepting new clients. Check out my [portfolio!](https://seanparker.netlify.app/)
 
-- 📫 Email me at [seanmcdonnell90@gmail.com](mailto:seanmcdonnell90@gmail.com)
+- 📫 Email me at [seancparker900@gmail.com](mailto:seancparker90@gmail.com)
 
 <div align="center">
   <img width="800" src="https://github-readme-streak-stats.herokuapp.com?user=newagerobot&theme=dracula"/>
