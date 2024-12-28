@@ -1,6 +1,5 @@
 
 <img align="center" src="https://github.com/user-attachments/assets/3832c9f8-0564-47c0-9054-ad72bc7da920" alt="SeanParker"/>
-![GithubGraphic-Update](https://github.com/user-attachments/assets/4f35e73c-ff52-436d-8a0d-55f19ceae6c6)
 
 <h1 align="center">Hi 👋, I'm Seán</h1>
 <h3 align="center">A full stack solutions engineer</h3>
